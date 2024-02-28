@@ -43,7 +43,7 @@ make
 
 # Usage instruction
 
-### Launch the server
+### Launch the serverß
 ```
 
 ./ircserv [port number] [password]
