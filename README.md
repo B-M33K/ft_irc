@@ -81,4 +81,4 @@ nick bmeek
 Have fun!
 
 ## Credits
-Made with love 💗 by [Me](https://github.com/bben-aou)  And  [Mohammed](https://github.com/sdk-meb) .
+Made with love and powe by [Me](https://github.com/B-M33K), [Otmane](https://github.com/otmane222) and [Ismail](https://github.com/ISMAILBOUADDI) .
