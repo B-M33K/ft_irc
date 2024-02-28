@@ -36,7 +36,7 @@ every other client that joined the channel.
 Clone the project and launch `make` to build the server executable : 
 
 ```sh
-git clone https://github.com/bben-aou/ft_irc.git
+git clone https://github.com/B-M33K/ft_irc.git
 cd ft_irc
 make
 ```
